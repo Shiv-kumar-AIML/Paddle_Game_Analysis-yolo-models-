@@ -1,0 +1,2 @@
+from .text_report import generate_coverage_report, generate_performance_report
+from .dashboard import generate_heatmap, generate_dashboard
