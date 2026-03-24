@@ -25,8 +25,6 @@
 
 <p align="center"><em>Real-time detection: 4 players with stable IDs (P1-P4) + ball tracking with trajectory trail</em></p>
 
-<details>
-<summary>📊 More Screenshots</summary>
 
 ### 🎯 Ball Hit Detection
 <p align="center">
@@ -47,8 +45,6 @@
 <p align="center">
   <img src="assets/COURT_COVERAGE_HEATMAP.png" alt="Coverage Heatmap" width="90%"/>
 </p>
-
-</details>
 
 ---
 
